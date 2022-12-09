@@ -65,3 +65,6 @@
   - 准备+润回家
   - 看完了所有2022春季OS课
   - 捣鼓 ChatGPT
+- 12.8
+  - 看第八章：并发
+  - 在 Github 上提了个问题 https://github.com/LearningOS/rust-based-os-comp2022/issues/164
