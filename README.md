@@ -68,3 +68,5 @@
 - 12.8
   - 看第八章：并发
   - 在 Github 上提了个问题 https://github.com/LearningOS/rust-based-os-comp2022/issues/164
+- 12.9
+  - 看完了第八章：并发
