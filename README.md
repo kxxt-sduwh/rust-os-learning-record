@@ -70,3 +70,5 @@
   - 在 Github 上提了个问题 https://github.com/LearningOS/rust-based-os-comp2022/issues/164
 - 12.9
   - 看完了第八章：并发
+- 12.10-11: 做完 lab5-os8
+- 12.12 ~ Now: 忙学校的大作业
